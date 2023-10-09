@@ -8,7 +8,8 @@ namespace ED1I4.Atividade7
 {
     /*
 * PARTICIPANTES
-  * ÉRICA BARBOSA  CB3012701*/
+* ÉRICA BARBOSA  CB3012701
+*/
     public class Seletor
     {
         private Medicamentos medicamentos;
